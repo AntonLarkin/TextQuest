@@ -258,6 +258,7 @@ MonoBehaviour:
     \u0434\u0432\u0435\u0440\u0438\n3- \u041E\u0441\u043C\u043E\u0442\u0440\u0435\u0442\u044C\u0441\u044F\n4-
     \u0412\u0435\u0440\u043D\u0443\u0442\u044C\u0441\u044F \u043D\u0430\u0437\u0430\u0434"
   locationName: "\u0413\u043B\u0430\u0432\u043D\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430"
+  locationImage: {fileID: 21300000, guid: e964b3ebcb0fc6342bb2a465842f1826, type: 3}
   nextSteps:
   - {fileID: 1395719972}
   - {fileID: 956192430}
@@ -310,6 +311,7 @@ MonoBehaviour:
   contentText: "\u0412\u044B \u0443\u043F\u0438\u0440\u0430\u0435\u0442\u0435\u0441\u044C
     \u0432 \u0442\u0443\u043F\u0438\u043A.\n\n1- \u041D\u0430\u0437\u0430\u0434\n"
   locationName: "\u0421\u043A\u043B\u0430\u0434"
+  locationImage: {fileID: 21300000, guid: c3b97ccf029c6ad4298e15b3b041133f, type: 3}
   nextSteps:
   - {fileID: 1507929844}
   currentLocation: {fileID: 458697498}
@@ -364,6 +366,7 @@ MonoBehaviour:
     \u043A\u043E\u0440\u0437\u0438\u043D\u0443\n3-\u041F\u0440\u0435\u043A\u0440\u0430\u0442\u0438\u0442\u044C
     \u043F\u043E\u0438\u0441\u043A"
   locationName: "\u041F\u0440\u0430\u0447\u0435\u0447\u043D\u0430\u044F"
+  locationImage: {fileID: 21300000, guid: 67c81f320edabc84baf30fe020be4441, type: 3}
   nextSteps:
   - {fileID: 1274444438}
   - {fileID: 1849211945}
@@ -416,6 +419,7 @@ MonoBehaviour:
     \u0416\u0430\u043B\u044C"
   locationName: "\u0413\u043B\u0430\u0432\u043D\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430
     (\u041F\u0440\u0438\u0445\u043E\u0436\u0430\u044F)"
+  locationImage: {fileID: 21300000, guid: e964b3ebcb0fc6342bb2a465842f1826, type: 3}
   nextSteps:
   - {fileID: 232639658}
   currentLocation: {fileID: 458697498}
@@ -472,6 +476,7 @@ MonoBehaviour:
     \u041C\u0415\u0420\u0422\u0412\u042B!\n\n1-\u041F\u043E\u043F\u0440\u043E\u0431\u043E\u0432\u0430\u0442\u044C
     \u0441\u043D\u043E\u0432\u0430?\n"
   locationName: "\u041A\u0443\u0445\u043D\u044F"
+  locationImage: {fileID: 21300000, guid: f41463c818850fd40ab31fa7d571b469, type: 3}
   nextSteps:
   - {fileID: 435123815}
   currentLocation: {fileID: 458697498}
@@ -508,6 +513,7 @@ MonoBehaviour:
     \u043D\u0430\u043B\u0435\u0432\u043E\n\u041A\u0443\u0434\u0430 \u0432\u044B \u043F\u043E\u0439\u0434\u0435\u0442\u0435?\n\n1-
     \u041D\u0430\u043B\u0435\u0432\u043E\n"
   locationName: "\u0421\u043A\u043B\u0430\u0434"
+  locationImage: {fileID: 21300000, guid: c3b97ccf029c6ad4298e15b3b041133f, type: 3}
   nextSteps:
   - {fileID: 759024081}
   currentLocation: {fileID: 458697498}
@@ -571,6 +577,7 @@ MonoBehaviour:
     \u043D\u0430\u0437\u0430\u0434"
   locationName: "\u0413\u043B\u0430\u0432\u043D\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430
     (\u0421\u0435\u0439\u0444)"
+  locationImage: {fileID: 21300000, guid: e964b3ebcb0fc6342bb2a465842f1826, type: 3}
   nextSteps:
   - {fileID: 1151766880}
   - {fileID: 458061002}
@@ -630,6 +637,7 @@ MonoBehaviour:
     \"\u0413\u041B. \u0412\u0425\u041E\u0414\"\n\n1- \u0412\u0435\u0440\u043D\u0443\u0442\u044C\u0441\u044F
     \u043D\u0430\u0437\u0430\u0434"
   locationName: "\u0421\u043A\u043B\u0430\u0434"
+  locationImage: {fileID: 21300000, guid: c3b97ccf029c6ad4298e15b3b041133f, type: 3}
   nextSteps:
   - {fileID: 1450186103}
   currentLocation: {fileID: 458697498}
@@ -681,6 +689,7 @@ MonoBehaviour:
     \u043D\u0430 \u043A\u043E\u0440\u0437\u0438\u043D\u0443\n2-\u041E\u0442\u043E\u0439\u0442\u0438
     \u043E\u0442 \u043E\u043A\u043D\u0430"
   locationName: "\u041F\u0440\u0430\u0447\u0435\u0447\u043D\u0430\u044F"
+  locationImage: {fileID: 21300000, guid: 67c81f320edabc84baf30fe020be4441, type: 3}
   nextSteps:
   - {fileID: 1978565076}
   - {fileID: 1790010191}
@@ -747,6 +756,7 @@ MonoBehaviour:
     \u0432\u044B \u043F\u043E\u0439\u0434\u0435\u0442\u0435?\n\n1- \u041D\u0430\u043B\u0435\u0432\u043E\n2-
     \u041D\u0430\u043F\u0440\u0430\u0432\u043E"
   locationName: "\u0421\u043A\u043B\u0430\u0434"
+  locationImage: {fileID: 21300000, guid: c3b97ccf029c6ad4298e15b3b041133f, type: 3}
   nextSteps:
   - {fileID: 759024081}
   - {fileID: 1507929844}
@@ -804,6 +814,7 @@ MonoBehaviour:
     \u0432\u0435\u0449\u0438 \u0432 \u0448\u043A\u0430\u0444\u0447\u0438\u043A\u0435
     \u0441\u043B\u0435\u0432\u0430"
   locationName: "\u041F\u0440\u0430\u0447\u0435\u0447\u043D\u0430\u044F"
+  locationImage: {fileID: 21300000, guid: 67c81f320edabc84baf30fe020be4441, type: 3}
   nextSteps:
   - {fileID: 465739629}
   - {fileID: 1924653353}
@@ -867,6 +878,7 @@ MonoBehaviour:
     \u041F\u043E\u0441\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u043D\u0430 \u043A\u0430\u0440\u0442\u0438\u043D\u0443
     \u043D\u0430 \u0441\u0435\u0432\u0435\u0440\u043D\u043E\u0439 \u0441\u0442\u0435\u043D\u0435"
   locationName: "\u041E\u0431\u0435\u0434\u0435\u043D\u043D\u044B\u0439 \u0437\u0430\u043B"
+  locationImage: {fileID: 21300000, guid: 63bfe9d5b99cb114395acdb6f2452b1d, type: 3}
   nextSteps:
   - {fileID: 1033507683}
   - {fileID: 1273724680}
@@ -938,6 +950,7 @@ MonoBehaviour:
     \u043A\u043E\u0432\u0435\u0440\n4- \u0412\u0435\u0440\u043D\u0443\u0442\u044C\u0441\u044F
     \u043D\u0430\u0437\u0430\u0434"
   locationName: "\u0413\u043B\u0430\u0432\u043D\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430"
+  locationImage: {fileID: 21300000, guid: e964b3ebcb0fc6342bb2a465842f1826, type: 3}
   nextSteps:
   - {fileID: 100826205}
   - {fileID: 956192430}
@@ -1010,6 +1023,7 @@ MonoBehaviour:
     \u043A \u043E\u0441\u043C\u043E\u0442\u0440\u0443"
   locationName: "\u0413\u043B\u0430\u0432\u043D\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430
     (\u041F\u0440\u0438\u0445\u043E\u0436\u0430\u044F)"
+  locationImage: {fileID: 21300000, guid: e964b3ebcb0fc6342bb2a465842f1826, type: 3}
   nextSteps:
   - {fileID: 668749029}
   - {fileID: 1395719972}
@@ -1050,6 +1064,7 @@ MonoBehaviour:
     \u0432\u044B\u043F\u0438\u0440\u0430\u0435\u0442\n\n1- \u041F\u043E\u0441\u043C\u043E\u0442\u0440\u0435\u0442\u044C
     \u043F\u043E\u0434 \u043A\u043E\u0432\u0440\u043E\u043C\n2- \u0412\u0435\u0440\u043D\u0443\u0442\u044C\u0441\u044F"
   locationName: "\u0413\u043B\u0430\u0432\u043D\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430 "
+  locationImage: {fileID: 21300000, guid: e964b3ebcb0fc6342bb2a465842f1826, type: 3}
   nextSteps:
   - {fileID: 981593167}
   - {fileID: 906084359}
@@ -1183,6 +1198,7 @@ MonoBehaviour:
     \u0447\u0435\u0440\u0435\u0437 \u0441\u0442\u043E\u0439\u043A\u0443\n3- \u0411\u0435\u0436\u0430\u0442\u044C
     \u043F\u043E \u043F\u0440\u0430\u0432\u043E\u0439 \u0441\u0442\u043E\u0440\u043E\u043D\u0435"
   locationName: "\u041A\u0443\u0445\u043D\u044F"
+  locationImage: {fileID: 21300000, guid: 15d17f9f7cb29d34aa290b61a4236514, type: 3}
   nextSteps:
   - {fileID: 961669428}
   - {fileID: 830773549}
@@ -1236,6 +1252,7 @@ MonoBehaviour:
     \u0434\u0432\u0435\u0440\u044C\n2-\u041F\u0440\u0438\u0441\u043B\u0443\u0448\u0430\u0442\u044C\u0441\u044F\n3-\u0412\u0435\u0440\u043D\u0443\u0442\u044C\u0441\u044F
     \u043D\u0430\u0437\u0430\u0434"
   locationName: "\u041A\u043E\u0440\u0440\u0438\u0434\u043E\u0440 "
+  locationImage: {fileID: 21300000, guid: 72a38d7bb959d3446bcaba87876942fa, type: 3}
   nextSteps:
   - {fileID: 309185293}
   - {fileID: 686189673}
@@ -1291,6 +1308,7 @@ MonoBehaviour:
     \u043F\u0440\u0435\u0440\u044B\u0432\u0430\u0435\u0442 \u0442\u0438\u0448\u0438\u043D\u0443.\n\n1-
     \u041E\u0442\u043A\u0440\u044B\u0442\u044C \u0434\u0432\u0435\u0440\u044C"
   locationName: "\u0413\u043B\u0430\u0432\u043D\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430"
+  locationImage: {fileID: 21300000, guid: e964b3ebcb0fc6342bb2a465842f1826, type: 3}
   nextSteps:
   - {fileID: 693784849}
   currentLocation: {fileID: 458697498}
@@ -1327,6 +1345,7 @@ MonoBehaviour:
     \u043D\u0430\u043B\u0435\u0432\u043E\n\u041A\u0443\u0434\u0430 \u0432\u044B \u043F\u043E\u0439\u0434\u0435\u0442\u0435?\n\n1-
     \u041D\u0430\u043B\u0435\u0432\u043E\n"
   locationName: "\u0421\u043A\u043B\u0430\u0434"
+  locationImage: {fileID: 21300000, guid: c3b97ccf029c6ad4298e15b3b041133f, type: 3}
   nextSteps:
   - {fileID: 2080775613}
   currentLocation: {fileID: 458697498}
@@ -1391,6 +1410,7 @@ MonoBehaviour:
     \u041E\u0442\u043A\u0440\u044B\u0442\u044C \u0434\u0432\u0435\u0440\u044C"
   locationName: "\u0413\u043B\u0430\u0432\u043D\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430
     (\u041F\u0440\u0438\u0445\u043E\u0436\u0430\u044F)"
+  locationImage: {fileID: 21300000, guid: e964b3ebcb0fc6342bb2a465842f1826, type: 3}
   nextSteps:
   - {fileID: 232639658}
   currentLocation: {fileID: 458697498}
@@ -1489,6 +1509,7 @@ MonoBehaviour:
     \u0432\u044B \u043F\u043E\u0439\u0434\u0435\u0442\u0435?\n\n1- \u041D\u0430\u043B\u0435\u0432\u043E\n2-
     \u041F\u0440\u044F\u043C\u043E\n"
   locationName: "\u0421\u043A\u043B\u0430\u0434"
+  locationImage: {fileID: 21300000, guid: c3b97ccf029c6ad4298e15b3b041133f, type: 3}
   nextSteps:
   - {fileID: 2080775613}
   - {fileID: 2080775613}
@@ -1570,6 +1591,7 @@ MonoBehaviour:
     \u043A \u043B\u0435\u0441\u0442\u043D\u0438\u0446\u0435 \u0438 \u043F\u043E\u0434\u043D\u044F\u0442\u044C\u0441\u044F
     \u043F\u043E \u043D\u0435\u0439\n"
   locationName: "\u041F\u043E\u0434\u0432\u0430\u043B"
+  locationImage: {fileID: 21300000, guid: a12cea679a5d98a49bcf4397bde99b16, type: 3}
   nextSteps:
   - {fileID: 1142827051}
   currentLocation: {fileID: 458697498}
@@ -1619,6 +1641,7 @@ MonoBehaviour:
   contentText: "\u0412\u044B \u0443\u043F\u0438\u0440\u0430\u0435\u0442\u0435\u0441\u044C
     \u0432 \u0442\u0443\u043F\u0438\u043A.\n\n1- \u041D\u0430\u0437\u0430\u0434\n"
   locationName: "\u0421\u043A\u043B\u0430\u0434"
+  locationImage: {fileID: 21300000, guid: c3b97ccf029c6ad4298e15b3b041133f, type: 3}
   nextSteps:
   - {fileID: 421155414}
   currentLocation: {fileID: 458697498}
@@ -1735,6 +1758,7 @@ MonoBehaviour:
     \u043D\u0430\u0437\u0430\u0434"
   locationName: "\u0413\u043B\u0430\u0432\u043D\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430
     (\u0421\u0435\u0439\u0444)"
+  locationImage: {fileID: 21300000, guid: e964b3ebcb0fc6342bb2a465842f1826, type: 3}
   nextSteps:
   - {fileID: 158518474}
   currentLocation: {fileID: 458697498}
@@ -1888,6 +1912,7 @@ MonoBehaviour:
     \u043D\u0430\u043F\u0440\u0430\u0432\u043E\n3- \u0412\u0435\u0440\u043D\u0443\u0442\u044C\u0441\u044F
     \u043D\u0430\u0437\u0430\u0434"
   locationName: "\u041A\u043E\u0440\u0440\u0438\u0434\u043E\u0440 "
+  locationImage: {fileID: 21300000, guid: 72a38d7bb959d3446bcaba87876942fa, type: 3}
   nextSteps:
   - {fileID: 1303966065}
   - {fileID: 319671634}
@@ -2009,6 +2034,7 @@ MonoBehaviour:
     \u043D\u0430\u043B\u0435\u0432\u043E\n\u041A\u0443\u0434\u0430 \u0432\u044B \u043F\u043E\u0439\u0434\u0435\u0442\u0435?\n\n1-
     \u041D\u0430\u043B\u0435\u0432\u043E\n\n"
   locationName: "\u0421\u043A\u043B\u0430\u0434"
+  locationImage: {fileID: 21300000, guid: c3b97ccf029c6ad4298e15b3b041133f, type: 3}
   nextSteps:
   - {fileID: 108564744}
   currentLocation: {fileID: 458697498}
@@ -2074,6 +2100,7 @@ MonoBehaviour:
     \u0437\u0430\u0431\u0440\u0430\u0442\u044C\u0441\u044F\n2-\u041E\u0442\u043E\u0439\u0442\u0438
     \u043E\u0442 \u043E\u043A\u043D\u0430"
   locationName: "\u041F\u0440\u0430\u0447\u0435\u0447\u043D\u0430\u044F"
+  locationImage: {fileID: 21300000, guid: 67c81f320edabc84baf30fe020be4441, type: 3}
   nextSteps:
   - {fileID: 2143162980}
   - {fileID: 1142827051}
@@ -2132,6 +2159,7 @@ MonoBehaviour:
     \u0448\u043A\u0430\u0444\u0443 \u043A\u0443\u043B\u0430\u043A\u043E\u043C\n2-\u041E\u0442\u043E\u0439\u0442\u0438
     \u043E\u0442 \u0448\u043A\u0430\u0444\u0430"
   locationName: "\u041F\u0440\u0430\u0447\u0435\u0447\u043D\u0430\u044F"
+  locationImage: {fileID: 21300000, guid: 67c81f320edabc84baf30fe020be4441, type: 3}
   nextSteps:
   - {fileID: 1993001700}
   - {fileID: 1142827051}
@@ -2191,6 +2219,7 @@ MonoBehaviour:
     \u043E\u0442\u043A\u0440\u044B\u0442\u044C \u043E\u043A\u043D\u043E\n3-\u041E\u0442\u043E\u0439\u0442\u0438
     \u043E\u0442 \u043E\u043A\u043D\u0430"
   locationName: "\u041F\u0440\u0430\u0447\u0435\u0447\u043D\u0430\u044F"
+  locationImage: {fileID: 21300000, guid: 67c81f320edabc84baf30fe020be4441, type: 3}
   nextSteps:
   - {fileID: 2143162980}
   - {fileID: 575444837}
@@ -2296,6 +2325,7 @@ MonoBehaviour:
     \u043A\u043E\u0432\u0435\u0440\n3- \u041E\u0441\u043C\u043E\u0442\u0440\u0435\u0442\u044C
     \u043F\u043E\u0440\u0442\u0440\u0435\u0442\n4- \u0412\u0435\u0440\u043D\u0443\u0442\u044C\u0441\u044F"
   locationName: "\u0413\u043B\u0430\u0432\u043D\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430"
+  locationImage: {fileID: 21300000, guid: e964b3ebcb0fc6342bb2a465842f1826, type: 3}
   nextSteps:
   - {fileID: 1898160793}
   - {fileID: 654924286}
@@ -2352,6 +2382,7 @@ MonoBehaviour:
     \u0432\u044B\u043F\u0438\u0440\u0430\u0435\u0442\n\n1- \u041F\u043E\u0441\u043C\u043E\u0442\u0440\u0435\u0442\u044C
     \u043F\u043E\u0434 \u043A\u043E\u0432\u0440\u043E\u043C\n2- \u0412\u0435\u0440\u043D\u0443\u0442\u044C\u0441\u044F"
   locationName: "\u0413\u043B\u0430\u0432\u043D\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430 "
+  locationImage: {fileID: 21300000, guid: e964b3ebcb0fc6342bb2a465842f1826, type: 3}
   nextSteps:
   - {fileID: 981593167}
   - {fileID: 643539541}
@@ -2405,6 +2436,7 @@ MonoBehaviour:
     \u0424\u0443!\n\n1- \u0412\u0435\u0440\u043D\u0443\u0442\u044C\u0441\u044F \u043D\u0430\u0437\u0430\u0434"
   locationName: "\u0413\u043B\u0430\u0432\u043D\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430
     (\u041F\u0440\u0438\u0445\u043E\u0436\u0430\u044F)"
+  locationImage: {fileID: 21300000, guid: e964b3ebcb0fc6342bb2a465842f1826, type: 3}
   nextSteps:
   - {fileID: 1395719972}
   currentLocation: {fileID: 458697498}
@@ -2446,6 +2478,7 @@ MonoBehaviour:
     \u0412\u0435\u0440\u043D\u0443\u0442\u044C\u0441\u044F \u043D\u0430\u0437\u0430\u0434"
   locationName: "\u0413\u043B\u0430\u0432\u043D\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430
     (\u0421\u0435\u0439\u0444)"
+  locationImage: {fileID: 21300000, guid: e964b3ebcb0fc6342bb2a465842f1826, type: 3}
   nextSteps:
   - {fileID: 232639658}
   currentLocation: {fileID: 458697498}
@@ -2511,6 +2544,7 @@ MonoBehaviour:
     \u0434\u0432\u0435\u0440\u044C\n2-\u0412\u0435\u0440\u043D\u0443\u0442\u044C\u0441\u044F
     \u043D\u0430\u0437\u0430\u0434"
   locationName: "\u041A\u043E\u0440\u0440\u0438\u0434\u043E\u0440 "
+  locationImage: {fileID: 21300000, guid: 72a38d7bb959d3446bcaba87876942fa, type: 3}
   nextSteps:
   - {fileID: 309185293}
   - {fileID: 465739629}
@@ -2551,6 +2585,7 @@ MonoBehaviour:
     \u043D\u043E \u043E\u043D \u0432\u0441\u0435 \u0436\u0435 \u0435\u0441\u0442\u044C.\n\u041A\u0443\u0434\u0430
     \u0432\u044B \u043F\u043E\u0439\u0434\u0435\u0442\u0435?\n\n1- \u041F\u0440\u044F\u043C\u043E"
   locationName: "\u0421\u043A\u043B\u0430\u0434"
+  locationImage: {fileID: 21300000, guid: c3b97ccf029c6ad4298e15b3b041133f, type: 3}
   nextSteps:
   - {fileID: 206820366}
   currentLocation: {fileID: 458697498}
@@ -2670,6 +2705,7 @@ MonoBehaviour:
     \u0432\u044B\u043F\u0438\u0440\u0430\u0435\u0442\n\n1- \u041F\u043E\u0441\u043C\u043E\u0442\u0440\u0435\u0442\u044C
     \u043F\u043E\u0434 \u043A\u043E\u0432\u0440\u043E\u043C\n2- \u0412\u0435\u0440\u043D\u0443\u0442\u044C\u0441\u044F"
   locationName: "\u0413\u043B\u0430\u0432\u043D\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430 "
+  locationImage: {fileID: 21300000, guid: e964b3ebcb0fc6342bb2a465842f1826, type: 3}
   nextSteps:
   - {fileID: 2031521717}
   - {fileID: 643539541}
@@ -2743,6 +2779,7 @@ MonoBehaviour:
     \u043E\u0442\u043A\u0440\u044B\u0442\u044C \u043E\u043A\u043D\u043E\n3-\u041E\u0442\u043E\u0439\u0442\u0438
     \u043E\u0442 \u043E\u043A\u043D\u0430"
   locationName: "\u041F\u0440\u0430\u0447\u0435\u0447\u043D\u0430\u044F"
+  locationImage: {fileID: 21300000, guid: 67c81f320edabc84baf30fe020be4441, type: 3}
   nextSteps:
   - {fileID: 465739629}
   - {fileID: 1142827051}
@@ -2783,6 +2820,7 @@ MonoBehaviour:
     \u0432 \u0441\u0442\u043E\u0440\u043E\u043D\u0443 \u043E\u043A\u043D\u0430\n2-\u041E\u0442\u043E\u0439\u0442\u0438
     \u043E\u0442 \u043A\u043E\u0440\u043E\u0431\u043A\u0438"
   locationName: "\u041F\u0440\u0430\u0447\u0435\u0447\u043D\u0430\u044F"
+  locationImage: {fileID: 21300000, guid: 67c81f320edabc84baf30fe020be4441, type: 3}
   nextSteps:
   - {fileID: 1225034612}
   - {fileID: 2143162980}
@@ -2854,6 +2892,7 @@ MonoBehaviour:
     \u041E\u0442\u043E\u0439\u0442\u0438"
   locationName: "\u0413\u043B\u0430\u0432\u043D\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430
     (\u041F\u0440\u0438\u0445\u043E\u0436\u0430\u044F)"
+  locationImage: {fileID: 21300000, guid: e964b3ebcb0fc6342bb2a465842f1826, type: 3}
   nextSteps:
   - {fileID: 795805283}
   - {fileID: 1395719972}
@@ -2892,6 +2931,7 @@ MonoBehaviour:
     \u043F\u043E\u0439\u0434\u0435\u0442\u0435?\n\n1- \u041F\u0440\u044F\u043C\u043E\n2-
     \u041D\u0430\u043F\u0440\u0430\u0432\u043E"
   locationName: "\u0421\u043A\u043B\u0430\u0434"
+  locationImage: {fileID: 21300000, guid: c3b97ccf029c6ad4298e15b3b041133f, type: 3}
   nextSteps:
   - {fileID: 1745118170}
   - {fileID: 0}
@@ -2963,6 +3003,7 @@ MonoBehaviour:
     \u041E\u0441\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u043A\u043E\u0432\u0435\u0440\n2-
     \u0412\u0435\u0440\u043D\u0443\u0442\u044C\u0441\u044F"
   locationName: "\u0413\u043B\u0430\u0432\u043D\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430"
+  locationImage: {fileID: 21300000, guid: e964b3ebcb0fc6342bb2a465842f1826, type: 3}
   nextSteps:
   - {fileID: 2031521717}
   - {fileID: 232639658}
@@ -3043,6 +3084,7 @@ MonoBehaviour:
     \n\n\u0412\u042B \u041C\u0415\u0420\u0422\u0412\u042B!\n\n1-\u041F\u043E\u043F\u0440\u043E\u0431\u043E\u0432\u0430\u0442\u044C
     \u0441\u043D\u043E\u0432\u0430?\n"
   locationName: "\u0413\u043B\u0430\u0432\u043D\u044B\u0439 \u0437\u0430\u043B (\u041F\u0440\u0438\u0445\u043E\u0436\u0430\u044F)"
+  locationImage: {fileID: 21300000, guid: f41463c818850fd40ab31fa7d571b469, type: 3}
   nextSteps:
   - {fileID: 435123815}
   currentLocation: {fileID: 458697498}
@@ -3099,6 +3141,7 @@ MonoBehaviour:
     \u0441\u043E\u0431\u0430\u043A\u0435.\n\n\u0412\u042B \u041C\u0415\u0420\u0422\u0412\u042B!\n\n1-\u041F\u043E\u043F\u0440\u043E\u0431\u043E\u0432\u0430\u0442\u044C
     \u0441\u043D\u043E\u0432\u0430?\n"
   locationName: "\u041A\u0443\u0445\u043D\u044F"
+  locationImage: {fileID: 21300000, guid: f41463c818850fd40ab31fa7d571b469, type: 3}
   nextSteps:
   - {fileID: 435123815}
   currentLocation: {fileID: 458697498}
@@ -3189,6 +3232,7 @@ MonoBehaviour:
   contentText: "\u041D\u0438\u0447\u0435\u0433\u043E \u043D\u0435\u0442\n\n1-\u041F\u0440\u0435\u043A\u0440\u0430\u0442\u0438\u0442\u044C
     \u043F\u043E\u0438\u0441\u043A"
   locationName: "\u041F\u0440\u0430\u0447\u0435\u0447\u043D\u0430\u044F"
+  locationImage: {fileID: 21300000, guid: 67c81f320edabc84baf30fe020be4441, type: 3}
   nextSteps:
   - {fileID: 1142827051}
   currentLocation: {fileID: 458697498}
@@ -3242,6 +3286,7 @@ MonoBehaviour:
     \u0432\u044B\u0431\u0440\u0430\u043B\u0438\u0441\u044C!\n\n1-\u041F\u043E\u043F\u0440\u043E\u0431\u043E\u0432\u0430\u0442\u044C
     \u0441\u043D\u043E\u0432\u0430?\n"
   locationName: "\u0423\u043B\u0438\u0446\u0430"
+  locationImage: {fileID: 21300000, guid: 884beb884bbf61f4884297431c07884e, type: 3}
   nextSteps:
   - {fileID: 435123815}
   currentLocation: {fileID: 458697498}
@@ -3299,6 +3344,7 @@ MonoBehaviour:
     \u043A\u043E\u0432\u0435\u0440\n3- \u041E\u0441\u043C\u043E\u0442\u0440\u0435\u0442\u044C
     \u043F\u043E\u0440\u0442\u0440\u0435\u0442\n4- \u0412\u0435\u0440\u043D\u0443\u0442\u044C\u0441\u044F"
   locationName: "\u0413\u043B\u0430\u0432\u043D\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430"
+  locationImage: {fileID: 21300000, guid: e964b3ebcb0fc6342bb2a465842f1826, type: 3}
   nextSteps:
   - {fileID: 158518474}
   - {fileID: 250721965}
@@ -3367,6 +3413,7 @@ MonoBehaviour:
     \u043A\u043E\u0440\u043E\u0431\u043A\u0443\n2-\u041F\u0440\u0435\u043A\u0440\u0430\u0442\u0438\u0442\u044C
     \u043F\u043E\u0438\u0441\u043A"
   locationName: "\u041F\u0440\u0430\u0447\u0435\u0447\u043D\u0430\u044F"
+  locationImage: {fileID: 21300000, guid: 67c81f320edabc84baf30fe020be4441, type: 3}
   nextSteps:
   - {fileID: 719333727}
   - {fileID: 1142827051}
@@ -3405,6 +3452,7 @@ MonoBehaviour:
     \u043F\u043E\u0439\u0434\u0435\u0442\u0435?\n\n1- \u041F\u0440\u044F\u043C\u043E\n2-
     \u041D\u0430\u043F\u0440\u0430\u0432\u043E"
   locationName: "\u0421\u043A\u043B\u0430\u0434"
+  locationImage: {fileID: 21300000, guid: c3b97ccf029c6ad4298e15b3b041133f, type: 3}
   nextSteps:
   - {fileID: 376155184}
   - {fileID: 1277277100}
@@ -3458,6 +3506,7 @@ MonoBehaviour:
     \u0433\u043B\u0430\u0437\u0430\u043C\u0438.\n\n1-\u041E\u0442\u043A\u0440\u044B\u0442\u044C
     \u0449\u0435\u043A\u043E\u043B\u0434\u0443\n2-\u0421\u043F\u0440\u044B\u0433\u043D\u0443\u0442\u044C"
   locationName: "\u041F\u0440\u0430\u0447\u0435\u0447\u043D\u0430\u044F"
+  locationImage: {fileID: 21300000, guid: 67c81f320edabc84baf30fe020be4441, type: 3}
   nextSteps:
   - {fileID: 879628948}
   - {fileID: 1142827051}
@@ -3528,6 +3577,7 @@ MonoBehaviour:
     \u041E\u0442\u043A\u0440\u044B\u0442\u044C \u0434\u0432\u0435\u0440\u044C\n2-
     \u041F\u0440\u0438\u0441\u043B\u0443\u0448\u0430\u0442\u044C\u0441\u044F"
   locationName: "\u0413\u043B\u0430\u0432\u043D\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430"
+  locationImage: {fileID: 21300000, guid: e964b3ebcb0fc6342bb2a465842f1826, type: 3}
   nextSteps:
   - {fileID: 693784849}
   - {fileID: 340620252}
@@ -3586,6 +3636,7 @@ MonoBehaviour:
     \u0437\u0430 \u0441\u043E\u0431\u043E\u0439 \u0434\u0432\u0435\u0440\u044C.\n\n1-
     \u041E\u0441\u043C\u043E\u0442\u0440\u0435\u0442\u044C\u0441\u044F"
   locationName: "\u041A\u0443\u0445\u043D\u044F"
+  locationImage: {fileID: 21300000, guid: 15d17f9f7cb29d34aa290b61a4236514, type: 3}
   nextSteps:
   - {fileID: 1928155801}
   currentLocation: {fileID: 458697498}
@@ -3646,6 +3697,7 @@ MonoBehaviour:
     \u043F\u043E\u043B\u0435\u0437\u043D\u044B\u0435 \u0432\u0435\u0449\u0438 \u0432
     \u043A\u043E\u0440\u0437\u0438\u043D\u0435 \u0441\u043F\u0440\u0430\u0432\u0430"
   locationName: "\u041F\u0440\u0430\u0447\u0435\u0447\u043D\u0430\u044F"
+  locationImage: {fileID: 21300000, guid: 67c81f320edabc84baf30fe020be4441, type: 3}
   nextSteps:
   - {fileID: 465739629}
   - {fileID: 1467210813}
@@ -3717,6 +3769,7 @@ MonoBehaviour:
     \u0437\u0430\u043C\u043E\u0447\u043D\u0430\u044F \u0441\u043A\u0432\u0430\u0436\u0438\u043D\u0430.\n\n1-
     \u0412\u0435\u0440\u043D\u0443\u0442\u044C\u0441\u044F"
   locationName: "\u0413\u043B\u0430\u0432\u043D\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430 "
+  locationImage: {fileID: 21300000, guid: e964b3ebcb0fc6342bb2a465842f1826, type: 3}
   nextSteps:
   - {fileID: 643539541}
   currentLocation: {fileID: 458697498}
@@ -3770,6 +3823,7 @@ MonoBehaviour:
     \u043A\u043E\u0440\u0437\u0438\u043D\u0443\n3-\u041F\u0440\u0435\u043A\u0440\u0430\u0442\u0438\u0442\u044C
     \u043F\u043E\u0438\u0441\u043A"
   locationName: "\u041F\u0440\u0430\u0447\u0435\u0447\u043D\u0430\u044F"
+  locationImage: {fileID: 21300000, guid: 67c81f320edabc84baf30fe020be4441, type: 3}
   nextSteps:
   - {fileID: 719333727}
   - {fileID: 1849211945}
@@ -3823,6 +3877,7 @@ MonoBehaviour:
     \u041F\u043E\u0441\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u0432 \u0437\u0435\u0440\u043A\u0430\u043B\u043E\n3-\u041E\u0442\u043E\u0439\u0442\u0438"
   locationName: "\u0413\u043B\u0430\u0432\u043D\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430
     (\u041F\u0440\u0438\u0445\u043E\u0436\u0430\u044F)"
+  locationImage: {fileID: 21300000, guid: e964b3ebcb0fc6342bb2a465842f1826, type: 3}
   nextSteps:
   - {fileID: 240286620}
   - {fileID: 733248569}
@@ -3863,6 +3918,7 @@ MonoBehaviour:
     \u043D\u0430 \u043A\u0430\u0440\u0442\u0438\u043D\u0443 \u043D\u0430 \u0441\u0435\u0432\u0435\u0440\u043D\u043E\u0439
     \u0441\u0442\u0435\u043D\u0435"
   locationName: "\u041E\u0431\u0435\u0434\u0435\u043D\u043D\u044B\u0439 \u0437\u0430\u043B"
+  locationImage: {fileID: 21300000, guid: 63bfe9d5b99cb114395acdb6f2452b1d, type: 3}
   nextSteps:
   - {fileID: 1364968088}
   currentLocation: {fileID: 458697498}
@@ -3929,6 +3985,7 @@ MonoBehaviour:
     \u0442\u0430\u0431\u0443\u0440\u0435\u0442\n2-\u041F\u0440\u0435\u043A\u0440\u0430\u0442\u0438\u0442\u044C
     \u043F\u043E\u0438\u0441\u043A"
   locationName: "\u041F\u0440\u0430\u0447\u0435\u0447\u043D\u0430\u044F"
+  locationImage: {fileID: 21300000, guid: 67c81f320edabc84baf30fe020be4441, type: 3}
   nextSteps:
   - {fileID: 1274444438}
   - {fileID: 1142827051}
@@ -3984,6 +4041,7 @@ MonoBehaviour:
     \u043F\u043E \u043B\u0435\u0441\u0442\u043D\u0438\u0446\u0435\n3-\u0412\u0435\u0440\u043D\u0443\u0442\u044C\u0441\u044F
     \u043D\u0430\u0437\u0430\u0434"
   locationName: "\u041A\u043E\u0440\u0440\u0438\u0434\u043E\u0440 "
+  locationImage: {fileID: 21300000, guid: 72a38d7bb959d3446bcaba87876942fa, type: 3}
   nextSteps:
   - {fileID: 45480427}
   - {fileID: 2113959570}
@@ -4057,6 +4115,7 @@ MonoBehaviour:
     \u043F\u043E\u043B\u0435\u0437\u043D\u044B\u0435 \u0432\u0435\u0449\u0438 \u0432
     \u043A\u043E\u0440\u0437\u0438\u043D\u0435 \u0441\u043F\u0440\u0430\u0432\u0430"
   locationName: "\u041F\u0440\u0430\u0447\u0435\u0447\u043D\u0430\u044F"
+  locationImage: {fileID: 21300000, guid: 67c81f320edabc84baf30fe020be4441, type: 3}
   nextSteps:
   - {fileID: 465739629}
   - {fileID: 618294597}
@@ -4102,6 +4161,7 @@ MonoBehaviour:
     \u043D\u0430\u0437\u0430\u0434"
   locationName: "\u0413\u043B\u0430\u0432\u043D\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430
     (\u0421\u0435\u0439\u0444)"
+  locationImage: {fileID: 21300000, guid: e964b3ebcb0fc6342bb2a465842f1826, type: 3}
   nextSteps:
   - {fileID: 1898160793}
   currentLocation: {fileID: 458697498}
@@ -4160,6 +4220,7 @@ MonoBehaviour:
     \u043E\u0442\u043A\u0440\u044B\u0442\u044C \u043E\u043A\u043D\u043E\n3-\u041E\u0442\u043E\u0439\u0442\u0438
     \u043E\u0442 \u043E\u043A\u043D\u0430"
   locationName: "\u041F\u0440\u0430\u0447\u0435\u0447\u043D\u0430\u044F"
+  locationImage: {fileID: 21300000, guid: 67c81f320edabc84baf30fe020be4441, type: 3}
   nextSteps:
   - {fileID: 985209622}
   - {fileID: 575444837}
@@ -4234,6 +4295,7 @@ MonoBehaviour:
     \u043E\u0442\u043A\u0440\u044B\u0442\u044C \u043E\u043A\u043D\u043E\n3-\u041E\u0442\u043E\u0439\u0442\u0438
     \u043E\u0442 \u043E\u043A\u043D\u0430"
   locationName: "\u041F\u0440\u0430\u0447\u0435\u0447\u043D\u0430\u044F"
+  locationImage: {fileID: 21300000, guid: 67c81f320edabc84baf30fe020be4441, type: 3}
   nextSteps:
   - {fileID: 465739629}
   - {fileID: 1142827051}
@@ -4273,6 +4335,7 @@ MonoBehaviour:
     \u0442\u043E\u043B\u043A\u0430\u0442\u044C \u043A\u043E\u0440\u043E\u0431\u043A\u0443\n2-\u041E\u0442\u043E\u0439\u0442\u0438
     \u043E\u0442 \u043A\u043E\u0440\u043E\u0431\u043A\u0438"
   locationName: "\u041F\u0440\u0430\u0447\u0435\u0447\u043D\u0430\u044F"
+  locationImage: {fileID: 21300000, guid: 67c81f320edabc84baf30fe020be4441, type: 3}
   nextSteps:
   - {fileID: 1719235594}
   - {fileID: 2143162980}
@@ -4339,6 +4402,7 @@ MonoBehaviour:
     \u0432\u044B \u043F\u043E\u0439\u0434\u0435\u0442\u0435?\n\n1- \u041D\u0430\u043B\u0435\u0432\u043E\n2-
     \u041D\u0430\u043F\u0440\u0430\u0432\u043E"
   locationName: "\u0421\u043A\u043B\u0430\u0434"
+  locationImage: {fileID: 21300000, guid: c3b97ccf029c6ad4298e15b3b041133f, type: 3}
   nextSteps:
   - {fileID: 523254073}
   - {fileID: 1303966065}
@@ -4401,6 +4465,7 @@ MonoBehaviour:
     \u041F\u043E\u0441\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u043D\u0430 \u043A\u0430\u0440\u0442\u0438\u043D\u0443
     \u043D\u0430 \u0437\u0430\u043F\u0430\u0434\u043D\u043E\u0439 \u0441\u0442\u0435\u043D\u0435"
   locationName: "\u041E\u0431\u0435\u0434\u0435\u043D\u043D\u044B\u0439 \u0437\u0430\u043B"
+  locationImage: {fileID: 21300000, guid: 63bfe9d5b99cb114395acdb6f2452b1d, type: 3}
   nextSteps:
   - {fileID: 2011894618}
   - {fileID: 218093311}
@@ -4441,6 +4506,7 @@ MonoBehaviour:
     \u0440\u0430\u0432\u043D\u043E \u0432\u0437\u044F\u0442\u044C \u0442\u0430\u0431\u0443\u0440\u0435\u0442\n2-\u041E\u0442\u043E\u0439\u0442\u0438
     \u043E\u0442 \u0442\u0430\u0431\u0443\u0440\u0435\u0442\u0430"
   locationName: "\u041F\u0440\u0430\u0447\u0435\u0447\u043D\u0430\u044F"
+  locationImage: {fileID: 21300000, guid: 67c81f320edabc84baf30fe020be4441, type: 3}
   nextSteps:
   - {fileID: 1467210813}
   - {fileID: 2143162980}
@@ -4491,6 +4557,7 @@ MonoBehaviour:
   contentText: "\u0415\u0441\u0442\u044C \u043F\u0440\u043E\u0445\u043E\u0434 \u043D\u0430\u043F\u0440\u0430\u0432\u043E\n\u041A\u0443\u0434\u0430
     \u0432\u044B \u043F\u043E\u0439\u0434\u0435\u0442\u0435?\n\n1- \u041D\u0430\u043F\u0440\u0430\u0432\u043E"
   locationName: "\u0421\u043A\u043B\u0430\u0434"
+  locationImage: {fileID: 21300000, guid: c3b97ccf029c6ad4298e15b3b041133f, type: 3}
   nextSteps:
   - {fileID: 159388180}
   currentLocation: {fileID: 458697498}
@@ -4600,6 +4667,7 @@ MonoBehaviour:
     \u0434\u0430\u0442\u0430 1476-1511\n\n1- \u0412\u0435\u0440\u043D\u0443\u0442\u044C\u0441\u044F
     \u043D\u0430\u0437\u0430\u0434"
   locationName: "\u0413\u043B\u0430\u0432\u043D\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430 "
+  locationImage: {fileID: 21300000, guid: e964b3ebcb0fc6342bb2a465842f1826, type: 3}
   nextSteps:
   - {fileID: 906084359}
   currentLocation: {fileID: 458697498}
@@ -4653,6 +4721,7 @@ MonoBehaviour:
     \u043F\u043E \u043B\u0435\u0441\u0442\u043D\u0438\u0446\u0435\n4-\u0412\u0435\u0440\u043D\u0443\u0442\u044C\u0441\u044F
     \u043D\u0430\u0437\u0430\u0434"
   locationName: "\u041A\u043E\u0440\u0440\u0438\u0434\u043E\u0440 "
+  locationImage: {fileID: 21300000, guid: 72a38d7bb959d3446bcaba87876942fa, type: 3}
   nextSteps:
   - {fileID: 45480427}
   - {fileID: 1118599029}
@@ -4749,6 +4818,7 @@ MonoBehaviour:
     \u043F\u0440\u043E\u043B\u0435\u0437\u0442\u044C.\n\n1-\u041F\u0440\u043E\u043B\u0435\u0437\u0442\u044C
     \u0432\u043F\u0435\u0440\u0435\u0434"
   locationName: "\u041E\u0431\u0435\u0434\u0435\u043D\u043D\u044B\u0439 \u0437\u0430\u043B"
+  locationImage: {fileID: 21300000, guid: 63bfe9d5b99cb114395acdb6f2452b1d, type: 3}
   nextSteps:
   - {fileID: 1926612627}
   currentLocation: {fileID: 458697498}
@@ -4800,6 +4870,7 @@ MonoBehaviour:
     \u043A\u043E\u0440\u0437\u0438\u043D\u0443\n2-\u041F\u0440\u0435\u043A\u0440\u0430\u0442\u0438\u0442\u044C
     \u043F\u043E\u0438\u0441\u043A"
   locationName: "\u041F\u0440\u0430\u0447\u0435\u0447\u043D\u0430\u044F"
+  locationImage: {fileID: 21300000, guid: 67c81f320edabc84baf30fe020be4441, type: 3}
   nextSteps:
   - {fileID: 1849211945}
   - {fileID: 1142827051}
@@ -4860,6 +4931,7 @@ MonoBehaviour:
     \u043F\u043E\u0432\u0435\u0441\u0438\u0442\u044C \u0440\u043E\u0432\u043D\u043E.\n\n1-
     \u041F\u043E\u043F\u0440\u0430\u0432\u0438\u0442\u044C \u043A\u0430\u0440\u0442\u0438\u043D\u0443\n"
   locationName: "\u041E\u0431\u0435\u0434\u0435\u043D\u043D\u044B\u0439 \u0437\u0430\u043B"
+  locationImage: {fileID: 21300000, guid: 63bfe9d5b99cb114395acdb6f2452b1d, type: 3}
   nextSteps:
   - {fileID: 1359196808}
   currentLocation: {fileID: 458697498}
@@ -4919,6 +4991,7 @@ MonoBehaviour:
     \u041E\u0442\u043E\u0439\u0442\u0438\n"
   locationName: "\u0413\u043B\u0430\u0432\u043D\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430
     (\u041F\u0440\u0438\u0445\u043E\u0436\u0430\u044F)"
+  locationImage: {fileID: 21300000, guid: e964b3ebcb0fc6342bb2a465842f1826, type: 3}
   nextSteps:
   - {fileID: 998569992}
   - {fileID: 240286620}
@@ -4978,6 +5051,7 @@ MonoBehaviour:
     \u0438 \u043F\u043E\u043F\u044B\u0442\u0430\u0442\u044C\u0441\u044F \u0432\u0441\u0442\u0430\u0432\u0438\u0442\u044C
     \u043A\u043B\u044E\u0447\n"
   locationName: "\u0413\u043B\u0430\u0432\u043D\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430"
+  locationImage: {fileID: 21300000, guid: e964b3ebcb0fc6342bb2a465842f1826, type: 3}
   nextSteps:
   - {fileID: 1860228391}
   currentLocation: {fileID: 458697498}
@@ -5045,6 +5119,7 @@ MonoBehaviour:
     \u041F\u043E\u0441\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u043D\u0430 \u043A\u0430\u0440\u0442\u0438\u043D\u0443
     \u043D\u0430 \u0441\u0435\u0432\u0435\u0440\u043D\u043E\u0439 \u0441\u0442\u0435\u043D\u0435"
   locationName: "\u041E\u0431\u0435\u0434\u0435\u043D\u043D\u044B\u0439 \u0437\u0430\u043B"
+  locationImage: {fileID: 21300000, guid: 63bfe9d5b99cb114395acdb6f2452b1d, type: 3}
   nextSteps:
   - {fileID: 1883283160}
   - {fileID: 1548369179}
@@ -5084,6 +5159,7 @@ MonoBehaviour:
     \u043D\u0430 \u0442\u0430\u0431\u0443\u0440\u0435\u0442\n2-\u041E\u0442\u043E\u0439\u0442\u0438
     \u043E\u0442 \u043E\u043A\u043D\u0430"
   locationName: "\u041F\u0440\u0430\u0447\u0435\u0447\u043D\u0430\u044F"
+  locationImage: {fileID: 21300000, guid: 67c81f320edabc84baf30fe020be4441, type: 3}
   nextSteps:
   - {fileID: 1168629080}
   - {fileID: 979178180}
@@ -5215,6 +5291,7 @@ MonoBehaviour:
     \u0432\u044B \u043F\u043E\u0439\u0434\u0435\u0442\u0435?\n\n1- \u041D\u0430\u043B\u0435\u0432\u043E\n2-
     \u041F\u0440\u044F\u043C\u043E"
   locationName: "\u0421\u043A\u043B\u0430\u0434"
+  locationImage: {fileID: 21300000, guid: c3b97ccf029c6ad4298e15b3b041133f, type: 3}
   nextSteps:
   - {fileID: 523254073}
   - {fileID: 47225484}
@@ -5293,6 +5370,7 @@ MonoBehaviour:
     \u041F\u043E\u0441\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u043D\u0430 \u043A\u0430\u0440\u0442\u0438\u043D\u0443
     \u043D\u0430 \u0441\u0435\u0432\u0435\u0440\u043D\u043E\u0439 \u0441\u0442\u0435\u043D\u0435"
   locationName: "\u041E\u0431\u0435\u0434\u0435\u043D\u043D\u044B\u0439 \u0437\u0430\u043B"
+  locationImage: {fileID: 21300000, guid: 63bfe9d5b99cb114395acdb6f2452b1d, type: 3}
   nextSteps:
   - {fileID: 2011894618}
   - {fileID: 1455239339}
@@ -5329,6 +5407,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   contentLabel: {fileID: 1496242271}
   locationLabel: {fileID: 458697498}
+  location: {fileID: 1679021135}
   startStep: {fileID: 435123815}
 --- !u!4 &1606329414
 Transform:
@@ -5344,6 +5423,80 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1679021133
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1679021134}
+  - component: {fileID: 1679021136}
+  - component: {fileID: 1679021135}
+  m_Layer: 5
+  m_Name: BackGround
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1679021134
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1679021133}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1863152909}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0.001709, y: -79.999}
+  m_SizeDelta: {x: 1195.9434, y: 461.60217}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1679021135
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1679021133}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.23529412}
+  m_RaycastTarget: 1
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: a12cea679a5d98a49bcf4397bde99b16, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1679021136
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1679021133}
+  m_CullTransparentMesh: 0
 --- !u!1 &1705614252
 GameObject:
   m_ObjectHideFlags: 0
@@ -5457,6 +5610,7 @@ MonoBehaviour:
     \u0434\u0432\u0438\u0433\u0430\u0442\u044C\n2-\u041E\u0442\u043E\u0439\u0442\u0438
     \u043E\u0442 \u043A\u043E\u0440\u043E\u0431\u043A\u0438"
   locationName: "\u041F\u0440\u0430\u0447\u0435\u0447\u043D\u0430\u044F"
+  locationImage: {fileID: 21300000, guid: 67c81f320edabc84baf30fe020be4441, type: 3}
   nextSteps:
   - {fileID: 1924653353}
   - {fileID: 2143162980}
@@ -5509,6 +5663,7 @@ MonoBehaviour:
     \u043F\u043E\u0439\u0434\u0435\u0442\u0435?\n\n1- \u041D\u0430\u043B\u0435\u0432\u043E\n2-
     \u041D\u0430\u043F\u0440\u0430\u0432\u043E"
   locationName: "\u0421\u043A\u043B\u0430\u0434"
+  locationImage: {fileID: 21300000, guid: c3b97ccf029c6ad4298e15b3b041133f, type: 3}
   nextSteps:
   - {fileID: 939907680}
   - {fileID: 421155414}
@@ -5578,6 +5733,7 @@ MonoBehaviour:
     \u0442\u0430\u0431\u0443\u0440\u0435\u0442\n3-\u041F\u0440\u0435\u043A\u0440\u0430\u0442\u0438\u0442\u044C
     \u043F\u043E\u0438\u0441\u043A"
   locationName: "\u041F\u0440\u0430\u0447\u0435\u0447\u043D\u0430\u044F"
+  locationImage: {fileID: 21300000, guid: 67c81f320edabc84baf30fe020be4441, type: 3}
   nextSteps:
   - {fileID: 719333727}
   - {fileID: 1274444438}
@@ -5653,6 +5809,7 @@ MonoBehaviour:
     \u043F\u043E\u043B\u0435\u0437\u043D\u044B\u0435 \u0432\u0435\u0449\u0438 \u0432
     \u043A\u043E\u0440\u0437\u0438\u043D\u0435 \u0441\u043F\u0440\u0430\u0432\u0430"
   locationName: "\u041F\u0440\u0430\u0447\u0435\u0447\u043D\u0430\u044F"
+  locationImage: {fileID: 21300000, guid: 67c81f320edabc84baf30fe020be4441, type: 3}
   nextSteps:
   - {fileID: 465739629}
   - {fileID: 173148712}
@@ -5706,6 +5863,7 @@ MonoBehaviour:
     \u043D\u0430\u043B\u0435\u0432\u043E\n\u041A\u0443\u0434\u0430 \u0432\u044B \u043F\u043E\u0439\u0434\u0435\u0442\u0435?\n\n1-
     \u041D\u0430\u043B\u0435\u0432\u043E\n\n"
   locationName: "\u0421\u043A\u043B\u0430\u0434"
+  locationImage: {fileID: 21300000, guid: c3b97ccf029c6ad4298e15b3b041133f, type: 3}
   nextSteps:
   - {fileID: 159388180}
   currentLocation: {fileID: 458697498}
@@ -5807,6 +5965,7 @@ MonoBehaviour:
     \u043A\u043E\u0440\u0437\u0438\u043D\u0443\n2-\u041E\u0442\u043E\u0439\u0442\u0438
     \u043E\u0442 \u043A\u043E\u0440\u0437\u0438\u043D\u044B"
   locationName: "\u041F\u0440\u0430\u0447\u0435\u0447\u043D\u0430\u044F"
+  locationImage: {fileID: 21300000, guid: 67c81f320edabc84baf30fe020be4441, type: 3}
   nextSteps:
   - {fileID: 173148712}
   - {fileID: 2143162980}
@@ -5859,6 +6018,7 @@ MonoBehaviour:
     \u0432\u0434\u043E\u0445.\n\n\u0412\u044B \u0432\u044B\u0431\u0440\u0430\u043B\u0438\u0441\u044C!\n\n1-\u041F\u043E\u043F\u0440\u043E\u0431\u043E\u0432\u0430\u0442\u044C
     \u0441\u043D\u043E\u0432\u0430?\n"
   locationName: "\u0423\u043B\u0438\u0446\u0430"
+  locationImage: {fileID: 21300000, guid: 884beb884bbf61f4884297431c07884e, type: 3}
   nextSteps:
   - {fileID: 435123815}
   currentLocation: {fileID: 458697498}
@@ -5894,6 +6054,7 @@ RectTransform:
   m_Children:
   - {fileID: 17297121}
   - {fileID: 455233062}
+  - {fileID: 1679021134}
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -6018,6 +6179,7 @@ MonoBehaviour:
     \u0432\u044B\u0431\u0440\u0430\u043B\u0438\u0441\u044C!\n\n1-\u041F\u043E\u043F\u0440\u043E\u0431\u043E\u0432\u0430\u0442\u044C
     \u0441\u043D\u043E\u0432\u0430?\n"
   locationName: "\u0423\u043B\u0438\u0446\u0430"
+  locationImage: {fileID: 21300000, guid: 884beb884bbf61f4884297431c07884e, type: 3}
   nextSteps:
   - {fileID: 435123815}
   currentLocation: {fileID: 458697498}
@@ -6055,6 +6217,7 @@ MonoBehaviour:
     \u0448\u043A\u0430\u0444\u0443 \u043A\u0443\u043B\u0430\u043A\u043E\u043C\n3-\u041E\u0442\u043E\u0439\u0442\u0438
     \u043E\u0442 \u0448\u043A\u0430\u0444\u0430"
   locationName: "\u041F\u0440\u0430\u0447\u0435\u0447\u043D\u0430\u044F"
+  locationImage: {fileID: 21300000, guid: 67c81f320edabc84baf30fe020be4441, type: 3}
   nextSteps:
   - {fileID: 575563471}
   - {fileID: 1993001700}
@@ -6125,6 +6288,7 @@ MonoBehaviour:
     \u043D\u0430 \u043A\u0430\u0440\u0442\u0438\u043D\u0443 \u043D\u0430 \u0441\u0435\u0432\u0435\u0440\u043D\u043E\u0439
     \u0441\u0442\u0435\u043D\u0435"
   locationName: "\u041E\u0431\u0435\u0434\u0435\u043D\u043D\u044B\u0439 \u0437\u0430\u043B"
+  locationImage: {fileID: 21300000, guid: 63bfe9d5b99cb114395acdb6f2452b1d, type: 3}
   nextSteps:
   - {fileID: 218093311}
   - {fileID: 1273724680}
@@ -6188,6 +6352,7 @@ MonoBehaviour:
     \u043D\u0430\u0437\u0430\u0434"
   locationName: "\u0413\u043B\u0430\u0432\u043D\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430
     (\u0421\u0435\u0439\u0444)"
+  locationImage: {fileID: 21300000, guid: e964b3ebcb0fc6342bb2a465842f1826, type: 3}
   nextSteps:
   - {fileID: 1151766880}
   - {fileID: 643539541}
@@ -6228,6 +6393,7 @@ MonoBehaviour:
     \u043D\u0430 \u043A\u043E\u0440\u043E\u0431\u043A\u0443\n2-\u041E\u0442\u043E\u0439\u0442\u0438
     \u043E\u0442 \u043E\u043A\u043D\u0430"
   locationName: "\u041F\u0440\u0430\u0447\u0435\u0447\u043D\u0430\u044F"
+  locationImage: {fileID: 21300000, guid: 67c81f320edabc84baf30fe020be4441, type: 3}
   nextSteps:
   - {fileID: 951737895}
   - {fileID: 207387720}
@@ -6299,6 +6465,7 @@ MonoBehaviour:
     \u0432\u0434\u043E\u0445.\n\n\u0412\u044B \u0432\u044B\u0431\u0440\u0430\u043B\u0438\u0441\u044C!\n\n1-\u041F\u043E\u043F\u0440\u043E\u0431\u043E\u0432\u0430\u0442\u044C
     \u0441\u043D\u043E\u0432\u0430?\n"
   locationName: "\u0423\u043B\u0438\u0446\u0430"
+  locationImage: {fileID: 21300000, guid: 884beb884bbf61f4884297431c07884e, type: 3}
   nextSteps:
   - {fileID: 435123815}
   currentLocation: {fileID: 458697498}
@@ -6357,6 +6524,7 @@ MonoBehaviour:
     \u041F\u043E\u0441\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u043D\u0430 \u043A\u0430\u0440\u0442\u0438\u043D\u0443
     \u043D\u0430 \u0441\u0435\u0432\u0435\u0440\u043D\u043E\u0439 \u0441\u0442\u0435\u043D\u0435"
   locationName: "\u041E\u0431\u0435\u0434\u0435\u043D\u043D\u044B\u0439 \u0437\u0430\u043B"
+  locationImage: {fileID: 21300000, guid: 63bfe9d5b99cb114395acdb6f2452b1d, type: 3}
   nextSteps:
   - {fileID: 1548369179}
   - {fileID: 1455239339}
@@ -6422,6 +6590,7 @@ MonoBehaviour:
     \u041F\u043E\u0441\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u043D\u0430 \u043A\u0430\u0440\u0442\u0438\u043D\u0443
     \u043D\u0430 \u0432\u043E\u0441\u0442\u043E\u0447\u043D\u043E\u0439 \u0441\u0442\u0435\u043D\u0435"
   locationName: "\u041E\u0431\u0435\u0434\u0435\u043D\u043D\u044B\u0439 \u0437\u0430\u043B"
+  locationImage: {fileID: 21300000, guid: 63bfe9d5b99cb114395acdb6f2452b1d, type: 3}
   nextSteps:
   - {fileID: 2011894618}
   - {fileID: 1548369179}
@@ -6477,6 +6646,7 @@ MonoBehaviour:
     \u043A \u0449\u0435\u043A\u043E\u043B\u0434\u0435\n2-\u0421\u043B\u0435\u0437\u0442\u044C
     \u0441 \u043A\u043E\u0440\u0437\u0438\u043D\u044B"
   locationName: "\u041F\u0440\u0430\u0447\u0435\u0447\u043D\u0430\u044F"
+  locationImage: {fileID: 21300000, guid: 67c81f320edabc84baf30fe020be4441, type: 3}
   nextSteps:
   - {fileID: 879628948}
   - {fileID: 1142827051}
@@ -6528,6 +6698,7 @@ MonoBehaviour:
     \u0448\u043A\u0430\u0444\n2-\u041E\u0442\u043E\u0439\u0442\u0438 \u043E\u0442
     \u0448\u043A\u0430\u0444\u0430"
   locationName: "\u041F\u0440\u0430\u0447\u0435\u0447\u043D\u0430\u044F"
+  locationImage: {fileID: 21300000, guid: 67c81f320edabc84baf30fe020be4441, type: 3}
   nextSteps:
   - {fileID: 575563471}
   - {fileID: 1142827051}
@@ -6587,6 +6758,7 @@ MonoBehaviour:
     \u041F\u043E\u0441\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u043D\u0430 \u043A\u0430\u0440\u0442\u0438\u043D\u0443
     \u043D\u0430 \u0441\u0435\u0432\u0435\u0440\u043D\u043E\u0439 \u0441\u0442\u0435\u043D\u0435"
   locationName: "\u041E\u0431\u0435\u0434\u0435\u043D\u043D\u044B\u0439 \u0437\u0430\u043B"
+  locationImage: {fileID: 21300000, guid: 63bfe9d5b99cb114395acdb6f2452b1d, type: 3}
   nextSteps:
   - {fileID: 1548369179}
   - {fileID: 1455239339}
@@ -6657,6 +6829,7 @@ MonoBehaviour:
     \u0437\u0430\u043C\u043E\u0447\u043D\u0430\u044F \u0441\u043A\u0432\u0430\u0436\u0438\u043D\u0430.\n\n1-\u0412\u0441\u0442\u0430\u0432\u0438\u0442\u044C
     \u043A\u043B\u044E\u0447\n2- \u0412\u0435\u0440\u043D\u0443\u0442\u044C\u0441\u044F"
   locationName: "\u0413\u043B\u0430\u0432\u043D\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430 "
+  locationImage: {fileID: 21300000, guid: e964b3ebcb0fc6342bb2a465842f1826, type: 3}
   nextSteps:
   - {fileID: 1870582310}
   - {fileID: 789439615}
@@ -6693,6 +6866,7 @@ MonoBehaviour:
   contentText: "\u0412\u044B \u0443\u043F\u0438\u0440\u0430\u0435\u0442\u0435\u0441\u044C
     \u0432 \u0442\u0443\u043F\u0438\u043A.\n\n1- \u041D\u0430\u0437\u0430\u0434"
   locationName: "\u0421\u043A\u043B\u0430\u0434"
+  locationImage: {fileID: 21300000, guid: c3b97ccf029c6ad4298e15b3b041133f, type: 3}
   nextSteps:
   - {fileID: 376155184}
   currentLocation: {fileID: 458697498}
@@ -6766,6 +6940,7 @@ MonoBehaviour:
     \u041C\u0415\u0420\u0422\u0412\u042B!\n\n1-\u041F\u043E\u043F\u0440\u043E\u0431\u043E\u0432\u0430\u0442\u044C
     \u0441\u043D\u043E\u0432\u0430?\n"
   locationName: "\u0412\u0442\u043E\u0440\u043E\u0439 \u044D\u0442\u0430\u0436"
+  locationImage: {fileID: 21300000, guid: f41463c818850fd40ab31fa7d571b469, type: 3}
   nextSteps:
   - {fileID: 435123815}
   currentLocation: {fileID: 458697498}
@@ -6843,6 +7018,7 @@ MonoBehaviour:
     \u043A\u043E\u0440\u0437\u0438\u043D\u0443\n4-\u041F\u0440\u0435\u043A\u0440\u0430\u0442\u0438\u0442\u044C
     \u043F\u043E\u0438\u0441\u043A"
   locationName: "\u041F\u0440\u0430\u0447\u0435\u0447\u043D\u0430\u044F"
+  locationImage: {fileID: 21300000, guid: 67c81f320edabc84baf30fe020be4441, type: 3}
   nextSteps:
   - {fileID: 719333727}
   - {fileID: 1274444438}

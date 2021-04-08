@@ -9,6 +9,7 @@ public class StepBehavior : MonoBehaviour
     [TextArea(15,50)]
     public string contentText;
     public string locationName ;
+    public Sprite locationImage;
 
     public StepBehavior[] nextSteps;
 

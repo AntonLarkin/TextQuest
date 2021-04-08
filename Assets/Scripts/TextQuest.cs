@@ -8,6 +8,7 @@ public class TextQuest : MonoBehaviour
     #region Variables
     public Text contentLabel;
     public Text locationLabel;
+    public Image location;
     public StepBehavior startStep;
 
     private StepBehavior currentStep;
@@ -29,22 +30,26 @@ public class TextQuest : MonoBehaviour
         {
             MoveToNextStep(0);
             UpdateCurrentLocation(currentStep.locationName);
+            UpdateCurrentImage(currentStep.locationImage);
             //currentStep.currentLocation.text
         }
         if (Input.GetKeyDown(KeyCode.Alpha2))
         {
             MoveToNextStep(1);
             UpdateCurrentLocation(currentStep.locationName);
+            UpdateCurrentImage(currentStep.locationImage);
         }
         if (Input.GetKeyDown(KeyCode.Alpha3))
         {
             MoveToNextStep(2);
             UpdateCurrentLocation(currentStep.locationName);
+            UpdateCurrentImage(currentStep.locationImage);
         }
         if (Input.GetKeyDown(KeyCode.Alpha4))
         {
             MoveToNextStep(3);
             UpdateCurrentLocation(currentStep.locationName);
+            UpdateCurrentImage(currentStep.locationImage);
         }
 
     }
@@ -67,6 +72,10 @@ public class TextQuest : MonoBehaviour
             currentStep = currentStep.nextSteps[stepIndex];
             UpdateCurrentLabel();
         }
+    }
+    private void UpdateCurrentImage(Sprite currentImage)
+    {
+        location.sprite = currentImage;
     }
     #endregion
 }
